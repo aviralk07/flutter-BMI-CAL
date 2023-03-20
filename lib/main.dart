@@ -93,7 +93,7 @@ class _MyHomePageState extends State<MyHomePage> {
                   ),
                   ElevatedButton(
                     style: ElevatedButton.styleFrom(
-                        backgroundColor: Colors.purple),
+                        backgroundColor: Colors.indigoAccent),
                     onPressed: () {
                       var wt = wtController.text.toString();
                       var ft = ftController.text.toString();
